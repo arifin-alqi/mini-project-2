@@ -27,6 +27,7 @@ Jika angka 2 dipilih maka user akan masuk ke menu peminjam. Menu untuk role pemb
 Jika angka 3 dipilih maka user akan keluar dari program.
 
 5. Angka Selain 1-3
+
 ![Screenshot 2024-10-13 211130](https://github.com/user-attachments/assets/8b808d34-53f9-4090-83e0-83c519a67113)
 
 Jika angka yang dimasukkan selain 1, 2 dan 3 maka akan muncul pesan "Maaf tidak ada inputan," sebagai contoh saya memasukkan angka 4.
